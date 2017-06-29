@@ -5,9 +5,7 @@
 # Examples:
 #    * ./build_all.sh -DCMAKE_BUILD_TYPE=Debug
 #    * ./build_all.sh VERBOSE=1
-#
-# Written by Tiffany Huang, 12/14/2016
-#
+
 
 # Go into the directory where this bash script is contained.
 cd `dirname $0`
